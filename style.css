@@ -1,0 +1,57 @@
+<style>
+body {
+  font-family: Georgia, serif;
+  margin: 0;
+  padding: 0;
+  background-color: #e6f2e6;
+  color: #2d3a2d;
+}
+
+header, footer {
+  background-color: #1b4d3e;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  background-color: #145a32;
+  margin: 0;
+  padding: 10px 0;
+}
+
+nav ul li {
+  margin: 0 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+section, aside {
+  padding: 20px;
+}
+
+aside {
+  background-color: #d4efdf;
+  margin: 20px;
+}
+
+form {
+  background: #fff;
+  padding: 20px;
+  margin-top: 20px;
+  border: 1px solid #ccc;
+}
+
+input, textarea, select, button {
+  margin-top: 10px;
+  width: 100%;
+  padding: 10px;
+}
+</style>
